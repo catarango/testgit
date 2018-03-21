@@ -1,0 +1,17 @@
+---
+title: "Practice Git"
+output: html_notebook
+---
+
+This is a practice git notebook.
+
+![You can select which files to stage for commit on the gitpane on the upper right hand side.](staged_gitpane.png)
+
+The git dropdown on the toolbar allows you to access Git and GitHub commands that apply to the current file you are viewing. You can view the differences from your last tracked changes with the 'diff' command. 
+
+![git dropdown.](git_dropdown.png)
+
+If you are not sure how to navigate through the shell to get to your directory, you can access the shell via the git pane.
+
+![accessing the shell to your exact directory location is easy through the git pane](shell_access.png)
+
